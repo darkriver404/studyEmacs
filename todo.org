@@ -1,4 +1,17 @@
-* todo work
+#+TAGS: todo
+
++ [-] study emacs org mode [1/5]
+  + [ ] 安装vmware 
+  + [ ] 安装Ubuntu 18.04 LTS
+  + [ ] 安装git
+  + [ ] 管理github
+  + [X] pinyin文输入法
+
++ [ ]安装emacs
+
+
+
+
 * done study
 * todo life
 

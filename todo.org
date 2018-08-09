@@ -12,6 +12,6 @@
 
 
 
-* done study
-* todo life
+* DONE study
+* TODO life
 
